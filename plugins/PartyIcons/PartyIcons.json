@@ -1,8 +1,8 @@
 {
   "Author": "shdwp, Avaflow, abashby, nebel / Kirei1i (汉化)",
-  "Name": "Party Icons (中文版)",
+  "Name": "Party Icons（CN）",
   "Punchline": "用职业图标、团队位置等替换玩家名称！",
-  "Description": "根据当前内容调整玩家名牌显示。可以显示团队位置（通过监听聊天自动分配）、职业图标或带职业图标的名字。\n\n本版本为中文汉化版，界面已完全翻译为简体中文。",
+  "Description": "根据当前内容调整玩家名牌显示。可以显示团队位置（通过监听聊天自动分配）、职业图标或带职业图标的名字。",
   "InternalName": "PartyIcons",
   "RepoUrl": "https://github.com/nebel/xivPartyIcons",
   "Tags": [
